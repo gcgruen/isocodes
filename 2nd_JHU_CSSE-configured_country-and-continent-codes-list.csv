@@ -1,0 +1,252 @@
+﻿continent;region;subregion;country;M49 code;ISO-alpha3 code;population
+Asia;Southern Asia;Southern Asia;Afghanistan;4;AFG;38041754
+Europe;Southern Europe;Southern Europe;Albania;8;ALB;2854191
+Americas;Northern America;Northern America;Antarctica;10;ATA;#N/A
+Africa;Northern Africa;Northern Africa;Algeria;12;DZA;43053054
+Oceania;Polynesia;Polynesia;American Samoa;16;ASM;55312
+Europe;Southern Europe;Southern Europe;Andorra;20;AND;77142
+Africa;Sub-Saharan Africa;Middle Africa;Angola;24;AGO;31825295
+Americas;Latin America and the Caribbean;Caribbean;Antigua and Barbuda;28;ATG;97118
+Asia;Western Asia;Western Asia;Azerbaijan;31;AZE;10023318
+Americas;South America;South America;Argentina;32;ARG;44938712
+Oceania;Australia and New Zealand;Australia and New Zealand;Australia;36;AUS;25364307
+Europe;Western Europe;Western Europe;Austria;40;AUT;8877067
+Americas;Latin America and the Caribbean;Caribbean;Bahamas;44;BHS;389482
+Asia;Western Asia;Western Asia;Bahrain;48;BHR;1641172
+Asia;Southern Asia;Southern Asia;Bangladesh;50;BGD;163046161
+Asia;Western Asia;Western Asia;Armenia;51;ARM;2957731
+Americas;Latin America and the Caribbean;Caribbean;Barbados;52;BRB;287025
+Europe;Western Europe;Western Europe;Belgium;56;BEL;11484055
+Americas;Northern America;Northern America;Bermuda;60;BMU;63918
+Asia;Southern Asia;Southern Asia;Bhutan;64;BTN;763092
+Americas;South America;South America;Bolivia;68;BOL;11513100
+Europe;Southern Europe;Southern Europe;Bosnia and Herzegovina;70;BIH;3301000
+Africa;Sub-Saharan Africa;Southern Africa;Botswana;72;BWA;2303697
+Americas;South America;South America;Bouvet Island;74;BVT;#N/A
+Americas;South America;South America;Brazil;76;BRA;211049527
+Americas;Central America;Central America;Belize;84;BLZ;390353
+Africa;Sub-Saharan Africa;Eastern Africa;British Indian Ocean Territory;86;IOT;#N/A
+Oceania;Melanesia;Melanesia;Solomon Islands;90;SLB;669823
+Americas;Latin America and the Caribbean;Caribbean;British Virgin Islands;92;VGB;30030
+Asia;South-eastern Asia;South-eastern Asia;Brunei;96;BRN;433285
+Europe;Eastern Europe;Eastern Europe;Bulgaria;100;BGR;6975761
+Asia;South-eastern Asia;South-eastern Asia;Burma;104;MMR;54045420
+Africa;Sub-Saharan Africa;Eastern Africa;Burundi;108;BDI;11530580
+Europe;Eastern Europe;Eastern Europe;Belarus;112;BLR;9466856
+Asia;South-eastern Asia;South-eastern Asia;Cambodia;116;KHM;16486542
+Africa;Sub-Saharan Africa;Middle Africa;Cameroon;120;CMR;25876380
+Americas;Northern America;Northern America;Canada;124;CAN;37589262
+Africa;Sub-Saharan Africa;Western Africa;Cabo Verde;132;CPV;549935
+Americas;Latin America and the Caribbean;Caribbean;Cayman Islands;136;CYM;64948
+Africa;Sub-Saharan Africa;Middle Africa;Central African Republic;140;CAF;4745185
+Asia;Southern Asia;Southern Asia;Sri Lanka;144;LKA;21803000
+Africa;Sub-Saharan Africa;Middle Africa;Chad;148;TCD;15946876
+Americas;South America;South America;Chile;152;CHL;18952038
+Asia;Eastern Asia;Eastern Asia;China;156;CHN;1397715000
+Oceania;Australia and New Zealand;Australia and New Zealand;Christmas Island;162;CXR;#N/A
+Oceania;Australia and New Zealand;Australia and New Zealand;Cocos (Keeling) Islands;166;CCK;#N/A
+Americas;South America;South America;Colombia;170;COL;50339443
+Africa;Sub-Saharan Africa;Eastern Africa;Comoros;174;COM;850886
+Africa;Sub-Saharan Africa;Eastern Africa;Mayotte;175;MYT;#N/A
+Africa;Sub-Saharan Africa;Middle Africa;Congo (Brazzaville);178;COG;5380508
+Africa;Sub-Saharan Africa;Middle Africa;Congo (Kinshasa);180;COD;86790567
+Oceania;Polynesia;Polynesia;Cook Islands;184;COK;#N/A
+Americas;Central America;Central America;Costa Rica;188;CRI;5047561
+Europe;Southern Europe;Southern Europe;Croatia;191;HRV;4067500
+Americas;Latin America and the Caribbean;Caribbean;Cuba;192;CUB;11333483
+Asia;Western Asia;Western Asia;Cyprus;196;CYP;1198575
+Europe;Eastern Europe;Eastern Europe;Czechia;203;CZE;10669709
+Africa;Sub-Saharan Africa;Western Africa;Benin;204;BEN;11801151
+Europe;Northern Europe;Channel Islands;Denmark;208;DNK;5818553
+Americas;Latin America and the Caribbean;Caribbean;Dominica;212;DMA;71808
+Americas;Latin America and the Caribbean;Caribbean;Dominican Republic;214;DOM;10738958
+Americas;South America;South America;Ecuador;218;ECU;17373662
+Americas;Central America;Central America;El Salvador;222;SLV;6453553
+Africa;Sub-Saharan Africa;Middle Africa;Equatorial Guinea;226;GNQ;1355986
+Africa;Sub-Saharan Africa;Eastern Africa;Ethiopia;231;ETH;112078730
+Africa;Sub-Saharan Africa;Eastern Africa;Eritrea;232;ERI;3213972
+Europe;Northern Europe;Northern Europe;Estonia;233;EST;1326590
+Europe;Northern Europe;Northern Europe;Faroe Islands;234;FRO;48678
+Americas;South America;South America;Falkland Islands (Malvinas);238;FLK;#N/A
+Americas;South America;South America;South Georgia and the South Sandwich Islands;239;SGS;#N/A
+Oceania;Melanesia;Melanesia;Fiji;242;FJI;889953
+Europe;Northern Europe;Northern Europe;Finland;246;FIN;5520314
+Europe;Northern Europe;Northern Europe;Åland Islands;248;ALA;#N/A
+Europe;Western Europe;Western Europe;France;250;FRA;67059887
+Americas;South America;South America;French Guiana;254;GUF;#N/A
+Oceania;Polynesia;Polynesia;French Polynesia;258;PYF;279287
+Africa;Sub-Saharan Africa;Eastern Africa;French Southern Territories;260;ATF;#N/A
+Africa;Sub-Saharan Africa;Eastern Africa;Djibouti;262;DJI;973560
+Africa;Sub-Saharan Africa;Middle Africa;Gabon;266;GAB;2172579
+Asia;Western Asia;Western Asia;Georgia;268;GEO;3720382
+Africa;Sub-Saharan Africa;Western Africa;Gambia;270;GMB;2347706
+Asia;Western Asia;Western Asia;West Bank and Gaza;275;PSE;4685306
+Europe;Western Europe;Western Europe;Germany;276;DEU;83132799
+Africa;Sub-Saharan Africa;Western Africa;Ghana;288;GHA;30417856
+Europe;Southern Europe;Southern Europe;Gibraltar;292;GIB;33701
+Oceania;Micronesia;Micronesia;Kiribati;296;KIR;117606
+Europe;Southern Europe;Southern Europe;Greece;300;GRC;10716322
+Americas;Northern America;Northern America;Greenland;304;GRL;56225
+Americas;Latin America and the Caribbean;Caribbean;Grenada;308;GRD;112003
+Americas;Latin America and the Caribbean;Caribbean;Guadeloupe;312;GLP;#N/A
+Oceania;Micronesia;Micronesia;Guam;316;GUM;167294
+Americas;Central America;Central America;Guatemala;320;GTM;16604026
+Africa;Sub-Saharan Africa;Western Africa;Guinea;324;GIN;12771246
+Americas;South America;South America;Guyana;328;GUY;782766
+Americas;Latin America and the Caribbean;Caribbean;Haiti;332;HTI;11263077
+Oceania;Australia and New Zealand;Australia and New Zealand;Heard Island and McDonald Islands;334;HMD;#N/A
+Europe;Southern Europe;Southern Europe;Holy See;336;VAT;#N/A
+Americas;Central America;Central America;Honduras;340;HND;9746117
+Asia;Eastern Asia;Eastern Asia;China, Hong Kong Special Administrative Region;344;HKG;7507400
+Europe;Eastern Europe;Eastern Europe;Hungary;348;HUN;9769949
+Europe;Northern Europe;Northern Europe;Iceland;352;ISL;361313
+Asia;Southern Asia;Southern Asia;India;356;IND;1366417754
+Asia;South-eastern Asia;South-eastern Asia;Indonesia;360;IDN;270625568
+Asia;Southern Asia;Southern Asia;Iran;364;IRN;82913906
+Asia;Western Asia;Western Asia;Iraq;368;IRQ;39309783
+Europe;Northern Europe;Northern Europe;Ireland;372;IRL;4941444
+Asia;Western Asia;Western Asia;Israel;376;ISR;9053300
+Europe;Southern Europe;Southern Europe;Italy;380;ITA;60297396
+Africa;Sub-Saharan Africa;Western Africa;Cote d'Ivoire;384;CIV;25716544
+Americas;Latin America and the Caribbean;Caribbean;Jamaica;388;JAM;2948279
+Asia;Eastern Asia;Eastern Asia;Japan;392;JPN;126264931
+Asia;Central Asia;Central Asia;Kazakhstan;398;KAZ;18513930
+Asia;Western Asia;Western Asia;Jordan;400;JOR;10101694
+Africa;Sub-Saharan Africa;Eastern Africa;Kenya;404;KEN;52573973
+Asia;Eastern Asia;Eastern Asia;Democratic People's Republic of Korea;408;PRK;25666161
+Asia;Eastern Asia;Eastern Asia;Korea, South;410;KOR;51709098
+Asia;Western Asia;Western Asia;Kuwait;414;KWT;4207083
+Asia;Central Asia;Central Asia;Kyrgyzstan;417;KGZ;6456900
+Asia;South-eastern Asia;South-eastern Asia;Laos;418;LAO;7169455
+Asia;Western Asia;Western Asia;Lebanon;422;LBN;6855713
+Africa;Sub-Saharan Africa;Southern Africa;Lesotho;426;LSO;2125268
+Europe;Northern Europe;Northern Europe;Latvia;428;LVA;1912789
+Africa;Sub-Saharan Africa;Western Africa;Liberia;430;LBR;4937374
+Africa;Northern Africa;Northern Africa;Libya;434;LBY;6777452
+Europe;Western Europe;Western Europe;Liechtenstein;438;LIE;38019
+Europe;Northern Europe;Northern Europe;Lithuania;440;LTU;2786844
+Europe;Western Europe;Western Europe;Luxembourg;442;LUX;619896
+Asia;Eastern Asia;Eastern Asia;China, Macao Special Administrative Region;446;MAC;640445
+Africa;Sub-Saharan Africa;Eastern Africa;Madagascar;450;MDG;26969307
+Africa;Sub-Saharan Africa;Eastern Africa;Malawi;454;MWI;18628747
+Asia;South-eastern Asia;South-eastern Asia;Malaysia;458;MYS;31949777
+Asia;Southern Asia;Southern Asia;Maldives;462;MDV;530953
+Africa;Sub-Saharan Africa;Western Africa;Mali;466;MLI;19658031
+Europe;Southern Europe;Southern Europe;Malta;470;MLT;502653
+Americas;Latin America and the Caribbean;Caribbean;Martinique;474;MTQ;#N/A
+Africa;Sub-Saharan Africa;Western Africa;Mauritania;478;MRT;4525696
+Africa;Sub-Saharan Africa;Eastern Africa;Mauritius;480;MUS;1265711
+Americas;Central America;Central America;Mexico;484;MEX;127575529
+Europe;Western Europe;Western Europe;Monaco;492;MCO;38964
+Asia;Eastern Asia;Eastern Asia;Mongolia;496;MNG;3225167
+Europe;Eastern Europe;Eastern Europe;Moldova;498;MDA;2657637
+Europe;Southern Europe;Southern Europe;Montenegro;499;MNE;622137
+Americas;Latin America and the Caribbean;Caribbean;Montserrat;500;MSR;#N/A
+Africa;Northern Africa;Northern Africa;Morocco;504;MAR;36471769
+Africa;Sub-Saharan Africa;Eastern Africa;Mozambique;508;MOZ;30366036
+Asia;Western Asia;Western Asia;Oman;512;OMN;4974986
+Africa;Sub-Saharan Africa;Southern Africa;Namibia;516;NAM;2494530
+Oceania;Micronesia;Micronesia;Nauru;520;NRU;12581
+Asia;Southern Asia;Southern Asia;Nepal;524;NPL;28608710
+Europe;Western Europe;Western Europe;Netherlands;528;NLD;17332850
+Americas;Latin America and the Caribbean;Caribbean;Curaçao;531;CUW;157538
+Americas;Latin America and the Caribbean;Caribbean;Aruba;533;ABW;106314
+Americas;Latin America and the Caribbean;Caribbean;Sint Maarten (Dutch part);534;SXM;40733
+Americas;Latin America and the Caribbean;Caribbean;Bonaire, Sint Eustatius and Saba;535;BES;#N/A
+Oceania;Melanesia;Melanesia;New Caledonia;540;NCL;287800
+Oceania;Melanesia;Melanesia;Vanuatu;548;VUT;299882
+Oceania;Australia and New Zealand;Australia and New Zealand;New Zealand;554;NZL;4917000
+Americas;Central America;Central America;Nicaragua;558;NIC;6545502
+Africa;Sub-Saharan Africa;Western Africa;Niger;562;NER;23310715
+Africa;Sub-Saharan Africa;Western Africa;Nigeria;566;NGA;200963599
+Oceania;Polynesia;Polynesia;Niue;570;NIU;#N/A
+Oceania;Australia and New Zealand;Australia and New Zealand;Norfolk Island;574;NFK;#N/A
+Europe;Northern Europe;Northern Europe;Norway;578;NOR;5347896
+Oceania;Micronesia;Micronesia;Northern Mariana Islands;580;MNP;57216
+Oceania;Micronesia;Micronesia;United States Minor Outlying Islands;581;UMI;#N/A
+Oceania;Micronesia;Micronesia;Micronesia (Federated States of);583;FSM;113815
+Oceania;Micronesia;Micronesia;Marshall Islands;584;MHL;58791
+Oceania;Micronesia;Micronesia;Palau;585;PLW;18008
+Asia;Southern Asia;Southern Asia;Pakistan;586;PAK;216565318
+Americas;Central America;Central America;Panama;591;PAN;4246439
+Oceania;Melanesia;Melanesia;Papua New Guinea;598;PNG;8776109
+Americas;South America;South America;Paraguay;600;PRY;7044636
+Americas;South America;South America;Peru;604;PER;32510453
+Asia;South-eastern Asia;South-eastern Asia;Philippines;608;PHL;108116615
+Oceania;Polynesia;Polynesia;Pitcairn;612;PCN;#N/A
+Europe;Eastern Europe;Eastern Europe;Poland;616;POL;37970874
+Europe;Southern Europe;Southern Europe;Portugal;620;PRT;10269417
+Africa;Sub-Saharan Africa;Western Africa;Guinea-Bissau;624;GNB;1920922
+Asia;South-eastern Asia;South-eastern Asia;Timor-Leste;626;TLS;1293119
+Americas;Latin America and the Caribbean;Caribbean;Puerto Rico;630;PRI;3193694
+Asia;Western Asia;Western Asia;Qatar;634;QAT;2832067
+Africa;Sub-Saharan Africa;Eastern Africa;Réunion;638;REU;#N/A
+Europe;Eastern Europe;Eastern Europe;Romania;642;ROU;19356544
+Europe;Eastern Europe;Eastern Europe;Russia;643;RUS;144373535
+Africa;Sub-Saharan Africa;Eastern Africa;Rwanda;646;RWA;12626950
+Americas;Latin America and the Caribbean;Caribbean;Saint Barthélemy;652;BLM;#N/A
+Africa;Sub-Saharan Africa;Western Africa;Saint Helena;654;SHN;#N/A
+Americas;Latin America and the Caribbean;Caribbean;Saint Kitts and Nevis;659;KNA;52823
+Americas;Latin America and the Caribbean;Caribbean;Anguilla;660;AIA;#N/A
+Americas;Latin America and the Caribbean;Caribbean;Saint Lucia;662;LCA;182790
+Americas;Latin America and the Caribbean;Caribbean;Saint Martin (French Part);663;MAF;38002
+Americas;Northern America;Northern America;Saint Pierre and Miquelon;666;SPM;#N/A
+Americas;Latin America and the Caribbean;Caribbean;Saint Vincent and the Grenadines;670;VCT;110589
+Europe;Southern Europe;Southern Europe;San Marino;674;SMR;33860
+Africa;Sub-Saharan Africa;Middle Africa;Sao Tome and Principe;678;STP;215056
+Europe;Northern Europe;Channel Islands;Sark;680;;#N/A
+Asia;Western Asia;Western Asia;Saudi Arabia;682;SAU;34268528
+Africa;Sub-Saharan Africa;Western Africa;Senegal;686;SEN;16296364
+Europe;Southern Europe;Southern Europe;Serbia;688;SRB;6944975
+Africa;Sub-Saharan Africa;Eastern Africa;Seychelles;690;SYC;97625
+Africa;Sub-Saharan Africa;Western Africa;Sierra Leone;694;SLE;7813215
+Asia;South-eastern Asia;South-eastern Asia;Singapore;702;SGP;5703569
+Europe;Eastern Europe;Eastern Europe;Slovakia;703;SVK;5454073
+Asia;South-eastern Asia;South-eastern Asia;Vietnam;704;VNM;96462106
+Europe;Southern Europe;Southern Europe;Slovenia;705;SVN;2087946
+Africa;Sub-Saharan Africa;Eastern Africa;Somalia;706;SOM;15442905
+Africa;Sub-Saharan Africa;Southern Africa;South Africa;710;ZAF;58558270
+Africa;Sub-Saharan Africa;Eastern Africa;Zimbabwe;716;ZWE;14645468
+Europe;Southern Europe;Southern Europe;Spain;724;ESP;47076781
+Africa;Sub-Saharan Africa;Eastern Africa;South Sudan;728;SSD;11062113
+Africa;Northern Africa;Northern Africa;Sudan;729;SDN;42813238
+Africa;Northern Africa;Northern Africa;Western Sahara;732;ESH;609562
+Americas;South America;South America;Suriname;740;SUR;581372
+Europe;Northern Europe;Northern Europe;Svalbard and Jan Mayen Islands;744;SJM;#N/A
+Africa;Sub-Saharan Africa;Southern Africa;Eswatini;748;SWZ;1148130
+Europe;Northern Europe;Northern Europe;Sweden;752;SWE;10285453
+Europe;Western Europe;Western Europe;Switzerland;756;CHE;8574832
+Asia;Western Asia;Western Asia;Syria;760;SYR;17070135
+Asia;Central Asia;Central Asia;Tajikistan;762;TJK;9321018
+Asia;South-eastern Asia;South-eastern Asia;Thailand;764;THA;69625582
+Africa;Sub-Saharan Africa;Western Africa;Togo;768;TGO;8082366
+Oceania;Polynesia;Polynesia;Tokelau;772;TKL;#N/A
+Oceania;Polynesia;Polynesia;Tonga;776;TON;104494
+Americas;Latin America and the Caribbean;Caribbean;Trinidad and Tobago;780;TTO;1394973
+Asia;Western Asia;Western Asia;United Arab Emirates;784;ARE;9770529
+Africa;Northern Africa;Northern Africa;Tunisia;788;TUN;11694719
+Asia;Western Asia;Western Asia;Turkey;792;TUR;83429615
+Asia;Central Asia;Central Asia;Turkmenistan;795;TKM;5942089
+Americas;Latin America and the Caribbean;Caribbean;Turks and Caicos Islands;796;TCA;38191
+Oceania;Polynesia;Polynesia;Tuvalu;798;TUV;11646
+Africa;Sub-Saharan Africa;Eastern Africa;Uganda;800;UGA;44269594
+Europe;Eastern Europe;Eastern Europe;Ukraine;804;UKR;44385155
+Europe;Southern Europe;Southern Europe;North Macedonia;807;MKD;2083459
+Africa;Northern Africa;Northern Africa;Egypt;818;EGY;100388073
+Europe;Northern Europe;Northern Europe;United Kingdom;826;GBR;66834405
+Europe;Northern Europe;Channel Islands;Guernsey;831;GGY;#N/A
+Europe;Northern Europe;Channel Islands;Jersey;832;JEY;#N/A
+Europe;Northern Europe;Northern Europe;Isle of Man;833;IMN;84584
+Africa;Sub-Saharan Africa;Eastern Africa;Tanzania;834;TZA;58005463
+Americas;Northern America;Northern America;US;840;USA;328239523
+Americas;Latin America and the Caribbean;Caribbean;United States Virgin Islands;850;VIR;106631
+Africa;Sub-Saharan Africa;Western Africa;Burkina Faso;854;BFA;20321378
+Americas;South America;South America;Uruguay;858;URY;3461734
+Asia;Central Asia;Central Asia;Uzbekistan;860;UZB;33580650
+Americas;South America;South America;Venezuela;862;VEN;28515829
+Oceania;Polynesia;Polynesia;Wallis and Futuna Islands;876;WLF;#N/A
+Oceania;Polynesia;Polynesia;Samoa;882;WSM;197097
+Asia;Western Asia;Western Asia;Yemen;887;YEM;29161922
+Africa;Sub-Saharan Africa;Eastern Africa;Zambia;894;ZMB;17861030
+Asia;Eastern Asia;Eastern Asia;Taiwan*;158;CNG1925;23816775
+Europe;Eastern Europe;Eastern Europe;Kosovo;;XKX;1794248
